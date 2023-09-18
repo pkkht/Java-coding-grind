@@ -1,2 +1,4 @@
 # Java-coding-grind
-Java code exercises - code compiled in Java 17
+Java code exercises - all are stand-alone Java main applications compiled in Java 17.
+
+Exercises from HackerRank
