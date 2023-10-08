@@ -1,15 +1,11 @@
 package com.coding.exercises;
 
 import java.io.*;
-import java.util.Collections;
-import java.util.concurrent.atomic.AtomicReference;
-
-import static java.util.stream.Collectors.joining;
 
 class RepeatedStringResult {
 
     /*
-     * Complete the 'repeatedString' function below.
+     * https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
      *
      * The function is expected to return a LONG_INTEGER.
      * The function accepts following parameters:
